@@ -1,4 +1,4 @@
-# Todo App — Full-Stack AWS Deployment 
+# Todo App Full-Stack AWS Deployment 
 
 A production-ready Todo application built with **NestJS** and **React**, deployed on a highly available **AWS Infrastructure** using **Terraform** and **GitHub Actions**.
 
