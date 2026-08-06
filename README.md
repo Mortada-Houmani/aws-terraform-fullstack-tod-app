@@ -50,26 +50,6 @@ Builds the React app, syncs to S3, and invalidates the CloudFront cache.
 
 ---
 
-## Documentation & Setup
-
-> [!TIP]
-> For a deep dive into the infrastructure and step-by-step setup, see the **[Cloud Deployment Guide](./CLOUD_DEPLOYMENT.md)**.
-
-### API Documentation
-Interactive documentation is available via **Swagger**:
-- **Live URL:** [https://phoenitech.store/docs](https://phoenitech.store/docs)
-
-### Project Structure
-```text
-├── client/              # React frontend (Vite)
-├── server/              # NestJS backend (API)
-├── terraform/           # Infrastructure as Code (AWS)
-├── screenshots/         # Infrastructure documentation images
-└── README.md            # Main documentation
-```
-
----
-
 ## Features
 - Full CRUD Task Management
 - Pomodoro Timer integration
