@@ -27,7 +27,7 @@ The NestJS backend runs on **Amazon ECS** with **Fargate**, providing serverless
 
 ![ECS Console](screenshots/ecs.png)
 
-### Database (RDS PostgreSQL)
+### Database (RDS)
 Data is stored in a managed **Amazon RDS** instance within a private subnet.
 
 ![RDS Console](screenshots/rds.png)
